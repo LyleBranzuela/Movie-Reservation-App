@@ -1,2 +1,2 @@
 # Sketch-App
-An app for sketching shapes.
+GUI App for basic shapes ranging from Lines to Circles.
